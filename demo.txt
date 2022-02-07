@@ -1,2 +1,3 @@
 this is the text file under the command line
 you can use it as a text file
+hi
